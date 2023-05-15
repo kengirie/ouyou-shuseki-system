@@ -22,7 +22,8 @@ initial begin
 rst = 1;
 #(CLK); rst = 0;
 #(CLK*120); rst = 1;
-#(CLK*10);
+#(CLK*10);rst = 0;
+#(CLK*120);
 $finish;
 end
 endmodule
