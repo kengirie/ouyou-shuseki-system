@@ -1,0 +1,10 @@
+|fsm
+clk => st_reg~1.DATAIN
+start => always0.IN0
+stop => always0.IN0
+mode => always0.IN0
+mode => always0.IN0
+state[0] << state[0].DB_MAX_OUTPUT_PORT_TYPE
+state[1] << state[1].DB_MAX_OUTPUT_PORT_TYPE
+
+

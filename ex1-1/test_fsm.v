@@ -21,8 +21,8 @@ start = 0; stop = 0;mode = 0;
 #(CLK/2); start = 1;
 #(CLK); mode = 1;
 #(CLK*2); mode = 0;
-#(CLK); stop = 1;
-#(CLK*3);
+#(CLK*2); stop = 1;
+#(CLK);
 $finish;
 end
 endmodule

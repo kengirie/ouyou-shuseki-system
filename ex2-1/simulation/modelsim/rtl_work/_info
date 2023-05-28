@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ku-admin/Desktop/ouyou-shuseki-system/ex2-1/simulation/modelsim
+vframebuf
+Z1 !s110 1685161556
+!i10b 1
+!s100 U7;=X9f^D1Y[AgRYd?CD_1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IXGlH[DZ0UIh`b`gPb0mzh0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1685061542
+8C:/Users/ku-admin/Desktop/ex2/framebuf.v
+FC:/Users/ku-admin/Desktop/ex2/framebuf.v
+!i122 0
+L0 1 103
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1685161556.000000
+!s107 C:/Users/ku-admin/Desktop/ex2/framebuf.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ku-admin/Desktop/ex2|C:/Users/ku-admin/Desktop/ex2/framebuf.v|
+!i113 1
+Z6 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+C:/Users/ku-admin/Desktop/ex2
+Z7 tCvgOpt 0
+vtest_framebuf
+R1
+!i10b 1
+!s100 0K^g=;K=7[_;TZ_h;kmH@1
+R2
+IHVoD3=Nmkh:@UYN2OQU6]1
+R3
+R0
+w1685063206
+8C:/Users/ku-admin/Desktop/ouyou-shuseki-system/ex2-1/../../ex2/test_framebuf.v
+FC:/Users/ku-admin/Desktop/ouyou-shuseki-system/ex2-1/../../ex2/test_framebuf.v
+!i122 1
+L0 3 155
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ku-admin/Desktop/ouyou-shuseki-system/ex2-1/../../ex2/test_framebuf.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ku-admin/Desktop/ouyou-shuseki-system/ex2-1/../../ex2|C:/Users/ku-admin/Desktop/ouyou-shuseki-system/ex2-1/../../ex2/test_framebuf.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+C:/Users/ku-admin/Desktop/ouyou-shuseki-system/ex2-1/../../ex2
+R7

@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/ku-admin/Desktop/ouyou-shuseki-system/ex1-1/simulation/modelsim
+vfsm
+Z1 !s110 1684162728
+!i10b 1
+!s100 747KYa=gmOzioi_TMRQZG2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I;O:e@V=MKazk8ocUfk7HL2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1684141103
+8C:/Users/ku-admin/Desktop/ouyou-shuseki-system/ex1-1/fsm.v
+FC:/Users/ku-admin/Desktop/ouyou-shuseki-system/ex1-1/fsm.v
+!i122 0
+L0 1 32
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1684162728.000000
+!s107 C:/Users/ku-admin/Desktop/ouyou-shuseki-system/ex1-1/fsm.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ku-admin/Desktop/ouyou-shuseki-system/ex1-1|C:/Users/ku-admin/Desktop/ouyou-shuseki-system/ex1-1/fsm.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+C:/Users/ku-admin/Desktop/ouyou-shuseki-system/ex1-1
+Z8 tCvgOpt 0
+vtest_fsm
+R1
+!i10b 1
+!s100 24U<0N`4>KCzVi4kU833Q0
+R2
+I3O8EX8Ob6c[[H9GMo59Ma0
+R3
+R0
+w1684162711
+8C:/Users/ku-admin/Desktop/ouyou-shuseki-system/ex1-1/test_fsm.v
+FC:/Users/ku-admin/Desktop/ouyou-shuseki-system/ex1-1/test_fsm.v
+!i122 1
+L0 2 27
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ku-admin/Desktop/ouyou-shuseki-system/ex1-1/test_fsm.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ku-admin/Desktop/ouyou-shuseki-system/ex1-1|C:/Users/ku-admin/Desktop/ouyou-shuseki-system/ex1-1/test_fsm.v|
+!i113 1
+R6
+R7
+R8
